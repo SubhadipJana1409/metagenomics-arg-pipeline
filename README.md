@@ -77,6 +77,5 @@ Subhadip Jana (2025).
 Metagenomic Profiling of Antibiotic Resistance Genes.
 GitHub Repository: https://github.com/SubhadipJana1409/metagenomics-arg
 
-
 🪪 License
 This project is licensed under the MIT License. See LICENSE for details.

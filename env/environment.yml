@@ -1,0 +1,19 @@
+name: metagenomics-arg
+channels:
+  - bioconda
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - fastp
+  - sra-tools
+  - kraken2
+  - bracken
+  - bowtie2
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyterlab
+  - biopython
+  - pip
+  -
