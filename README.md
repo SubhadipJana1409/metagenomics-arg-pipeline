@@ -10,13 +10,13 @@ This project explores antibiotic resistance genes (ARGs) in human gut microbiome
 
 ## 📑 Table of Contents
 
-- [Objectives](#objectives)
+- [Objectives]
 - [Pipeline Steps]
 - [Visual Outputs]
 - [Tools & Frameworks]
-- [Results](#results)
-- [How to Cite](#how-to-cite)
-- [License](#license)
+- [Results]
+- [How to Cite]
+- [License]
 
 ---
 
