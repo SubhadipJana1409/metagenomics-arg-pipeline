@@ -4,7 +4,7 @@
 
 # Metagenomic Profiling of Antibiotic Resistance Genes
 
-This project explores antibiotic resistance genes (ARGs) in human gut microbiomes using publicly available shotgun metagenomic sequencing data. It applies tools like **Kraken2**, **Bracken**, and **DeepARG** for resistome and taxonomic profiling.
+This project explores antibiotic resistance genes (ARGs) in human gut microbiomes using publicly available shotgun metagenomic sequencing data. It applies tools like **Kraken2**, **Bracken**, and **RGI** for Resistance annotation and taxonomic profiling.
 
 ---
 
